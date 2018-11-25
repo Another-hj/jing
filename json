@@ -1,40 +1,41 @@
 
-  "squadName" : "league of legends",
-  "homeTown" : "英雄联盟",
-  "formed" : 2010,
+  {
+  "squadName" : "Super hero squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "疾风剑豪",
-      "age" : 10,
-      "secretIdentity" : "艾欧尼亚",
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
       "powers" : [
-        "斩钢闪",
-        "风之障壁",
-        "踏前斩"
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
       ]
     },
     {
-      "name" : "诡术妖姬",
-      "age" : 10,
-      "secretIdentity" : "黑色玫瑰",
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
       "powers" : [
-        "破碎法球",
-        "魔影迷踪",
-        "幻影锁链",
-        
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
       ]
     },
     {
-      "name" : "暗夜猎手",
-      "age" : 10000,
+      "name" : "Eternal Flame",
+      "age" : 1000000,
       "secretIdentity" : "Unknown",
       "powers" : [
-        "闪避突袭",
-        "圣银弩箭",
-        "恶魔审判",
-        "大招：终极时刻"
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
       ]
     }
   ]
